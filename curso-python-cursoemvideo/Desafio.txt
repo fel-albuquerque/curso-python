@@ -1,0 +1,5 @@
+Desafio da aula 
+
+1 - Crie um script python que leia o nome de uma pessoa e mostre uma mensagem de boas vindas de acordo com o valor digitado
+2 - Crie um script python que leia o dia, o mes e o ano de nascimento de uma pessoa com a data formatada
+3 - Crie um script python que leia dois numeros e tente mostrar a soma entre eles. 
