@@ -1,8 +1,6 @@
 #desafio-026
 
-nome = input ('Digete uma frase: ')
-
-n2 = nome.upper()
-
-
-print('O numero de vezes que aparece a letra A é {}:'.format(n2.count('A')))
+frase = str(input('Digete uma frase: ')).upper().strip()
+print('A Letra A aparece {} vezes na frase'.format(frase.count('A')))
+print('A primeira letra apareceu na posição {}'.format(frase.find('A')+1))
+print('A ultime vez que apareceu a letra A {}'.format(frase.rfind('A')+1))

@@ -1,11 +1,4 @@
 #desafio-025
 
-nome = input('Digite o seu nome: ')
-
-nome2 = nome.split()
-
-lista = nome2['Silva']
-
-
-
-print('O Seu nome possui o Silva {}'.format(lista))
+nome = str(input('Qual é o seu nome completo? ')).strip()
+print('Seu nome tem Silva {}'.format('sil' in nome.lower()))

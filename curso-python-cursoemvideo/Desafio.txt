@@ -18,5 +18,37 @@ Fase 8
 
 Fase 9 
 
+022 - Crie um programa que leia o nome completo de uma pessoa e mostre: O nome com todas as letras maiuscuslas, O nome com todas as letras minusculas , Quantas
+	  letras ao todo (sem considerar os espaços), Quantas letras tem o primeiro nome.
+
+023 - Faça um programa que leia um numero de 0 a 9999 e mostre na tela cada um dos digitos separados. Ex unidade, dezena, centena e milhar.
+024 - Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO"
+025 - Crie um program que leia o nome de uma pessoa e diga se ela tem "Silva" no nome.
+026 - Faça um programa que leia uma frase pelo teclado e mostre: Quantas vezes aparece a letra "A". Em que posição ela aparece a primeira vez,
+      Em que posição ela aparece a ultima vez 
+027 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o ultimo nome separadamente.
+
+Fase 10
+
+028 -  Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual o foi o número 
+	   escolhido pelo computador. O programa deve escrever na tela se o usuário venceu ou perdeu.
+	   
+029 -  Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai 
+       custar R$ 7,00 por cada km acima do limite.
+	   
+030 -  Crie um programa que leia um número inteiro e mostre se ele é par ou impar.
+
+031 -  Desenvolva um programa que pergunte a distancia de uma viagem em Km. Calcule o preço da passagem, cobrando 0,50 por km para viagens de até 200km
+       e R$ 0,45 para viagens mais longas.
+	   
+032 -  Faça um programa que leia um ano qualquer e mostre se ele é BISSEXTO
+
+033 -  Faça um programa que leia três numeros e mostre qual é o maior número.
+
+034 -  Escreva um programa que pergunte o salario de um funcionario e calcule o valor do seu aumento. Para salários superiores a 1.250 calcule um aumento
+       de 10%. Para os inferiores ou iguais, o aumento é de 15%.
+	   
+035 -  Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou nao formar um triangulo. 
+
 
 	  

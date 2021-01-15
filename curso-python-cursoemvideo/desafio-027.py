@@ -1,9 +1,7 @@
 #desafio-027
 
-nome = input('Digete o seu nome completo: ')
-
-n2 = nome.split()
-
-
-
-print('Seu nome completo é {}'.format(n2))
+nome = str(input('Digete o seu nome completo: ')).strip()
+nome = nome.split()
+print('Muito prazer em lhe conhecer')
+print('Seu primeiro nome é {}'.format(nome[0]))
+print('Seu ultimo nome é {} '.format(nome[len(nome)-1]))
